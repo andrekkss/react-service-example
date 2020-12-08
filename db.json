@@ -1,0 +1,15 @@
+{
+    "coding": [
+        {
+            "id": 1,
+            "title": "Intro to Coding",
+            "description": "An intro to coding with JS, React, HTML & CSS",
+            "date": "2020-12-20T12:00:00.000Z",
+            "email": "intro@coding.edu",
+            "phone": "11987654321",
+            "type": 1,
+            "address": "Rua do Limoeiro, N. 25",
+            "url": "www.coding.com"
+        }
+    ]
+}
