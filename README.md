@@ -17,3 +17,7 @@ https://github.com/axios/axios#example
 # observação sobre a arquitetura
 
 neste projeto, por questão de costume e melhor aproveito dos componentes, utilizamos uma adaptação do flux do Facebook, onde a adaptação foca em conceitos do clean architecture seguindo a filosofia de Robert C.Martin(Uncle bob) 
+
+# por onde começar?
+
+leia os seguintes arquivos: src/features/Home/provider/HomeExampleProvider e src/features/Home/page/HomeExamplePage
